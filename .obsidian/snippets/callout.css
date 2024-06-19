@@ -1,0 +1,19 @@
+/* Callout Skeleton */
+.callout {
+    color: var(--text-rgb);
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
+
+  .callout .callout-content {
+    background: var(--background-primary);
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  
+  .callout .callout-title {
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: var(--text-rgb);
+  }
