@@ -1,3 +1,2 @@
-
 > [!quote] Title
 > Contents

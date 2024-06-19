@@ -17,3 +17,14 @@
     padding-bottom: 10px;
     color: var(--text-rgb);
   }
+
+    /* Types */
+    .callout[data-callout="quote"] {
+    --callout-color: 255, 87, 51;
+    --callout-icon: lightbulb;
+    border: 1px solid rgb(var(--callout-color));
+    }
+
+    .callout[data-callout="quote"] strong, em {
+    color: rgb(255, 87, 51);
+    }
