@@ -1,4 +1,4 @@
-/* Callout Skeleton */
+/* Skeleton */
 .callout {
     color: var(--text-rgb);
     padding-left: 0px;
@@ -20,7 +20,7 @@
 
     /* Types */
     .callout[data-callout="quote"] {
-    --callout-color: 255, 87, 51;
+    --callout-color: 34, 70, 49;
     --callout-icon: lightbulb;
     border: 1px solid rgb(var(--callout-color));
     }
