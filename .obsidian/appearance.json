@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Border",
   "enabledCssSnippets": [
     "callout"
-  ]
+  ],
+  "theme": "moonstone"
 }
