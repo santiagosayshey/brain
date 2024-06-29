@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wiki/Prompt.md",
-                "mode": "preview",
+                "file": "Wiki/Philosophy.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki/Prompt.md",
+                "file": "Wiki/Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki/Prompt.md",
+                "file": "Wiki/Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki/Prompt.md"
+                "file": "Wiki/Philosophy.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "1f4b171f211b5cf9",
   "lastOpenFiles": [
-    "Wiki/Philosophy.md",
     "Wiki/Prompt.md",
-    "Templates",
+    "Wiki/Philosophy.md",
     "README.md",
+    "Templates",
     "Wiki"
   ]
 }
