@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
-    "callout"
+    "callout",
+    "main"
   ],
   "theme": "moonstone"
 }
