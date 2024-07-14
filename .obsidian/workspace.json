@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionarry/Discord/Support.md",
+                "file": "Notes/Obsidian/Non Negotiables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dictionarry/Discord/Support.md",
+                "file": "Notes/Obsidian/Non Negotiables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dictionarry/Discord/Support.md",
+                "file": "Notes/Obsidian/Non Negotiables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dictionarry/Discord/Support.md"
+                "file": "Notes/Obsidian/Non Negotiables.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "1f4b171f211b5cf9",
   "lastOpenFiles": [
+    "README.md",
     "Notes/Obsidian/Non Negotiables.md",
     "Dictionarry/Discord/Support.md",
     "Dictionarry/Discord",
@@ -157,7 +158,6 @@
     "Notes",
     "Wiki/Philosophy.md",
     "Wiki/Prompt.md",
-    "README.md",
     "Templates",
     "Wiki"
   ]
